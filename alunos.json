@@ -1,0 +1,26 @@
+[
+    {
+        "Nome": "Kelvin",
+        "Idade": "24",
+        "Curso": "SQL",
+        "Nota": 2
+    },
+    {      
+        "Nome": "João",
+        "Idade": "24",
+        "Curso": "QA",
+        "Nota": 5
+    },
+    {
+        "Nome": "Fábio",
+        "Idade": "24",
+        "Curso": ["MongoDB", "QA", "SQL"],
+        "Cargo": "Professor"
+    },
+    {
+        "Nome": "Ernesto",
+        "Idade": "24",
+        "Curso": "QA",
+        "Cargo": "Professor"
+    }
+]
